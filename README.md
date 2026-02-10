@@ -12,25 +12,14 @@ Hi there, I'm Juicy 👋<br>I'm a passionate 3D Artist and Developer, blending a
 ###
 <img align="right" height="150" src="https://www.google.com/imgres?q=furry%20gif&imgurl=https%3A%2F%2Fi.redd.it%2Fw7tofdc2foya1.gif&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Ffurry%2Fcomments%2F13c5m9z%2Ffirst_full_gif_i_made_in_a_few_years_sh_4rk%2F%3Ftl%3Dde&docid=e3o8hmNRORsctM&tbnid=OHMiVBFDPWA3BM&vet=12ahUKEwjvgJKX1s6SAxV8SfEDHemNLJcQnPAOegQIGxAB..i&w=1347&h=1035&hcb=2&ved=2ahUKEwjvgJKX1s6SAxV8SfEDHemNLJcQnPAOegQIGxAB"  />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeJuicy69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=OrangeJuicy69&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=OrangeJuicy69&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeJuicy69&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5srk9nepw66d986ejd33sbc2a&unique={true|1|on|yes})
 
 <picture>

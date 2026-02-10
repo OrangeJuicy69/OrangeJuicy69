@@ -31,6 +31,7 @@ Hi there, I'm Juicy 👋<br>I'm a passionate 3D Artist and Developer, blending a
 </div>
 
 ###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5srk9nepw66d986ejd33sbc2a&unique={true|1|on|yes})
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrangeJuicy69/OrangeJuicy69/output/pacman-contribution-graph-dark.svg">

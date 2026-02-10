@@ -1,89 +1,25 @@
-# Hi there, I'm Juicy 👋
+# 💫 About Me:
+Hi there, I'm Juicy 👋<br>I'm a passionate 3D Artist and Developer, blending art and technology to create immersive experiences. Always full of energy 💥, curious, and experimenting with new tools and techniques.<br><br>🎨 About Me<br>Hi! I'm someone who loves turning ideas into visual and interactive creations. My work combines 3D art, web development, and creative coding.<br>I thrive on experimenting with Blender, procedural modeling, and web-based visual experiences.<br><br>🔹 Blender & 3D Modeling<br>🔹 Web & Interactive Experiences<br>🔹 Python, JavaScript, HTML, CSS<br>🔹 Animation, VFX, Procedural Design<br>⚡ Always learning, always experimenting<br>💻 Skills<br>3D & Design<br>Blender, ZBrush, Substance Painter<br>Texturing, Sculpting, Animation<br>Procedural modeling & VFX<br>Programming<br>Python, JavaScript, Node.js<br>HTML5, CSS3, Three.js<br>Creative coding & WebGL<br>Tools & Workflows<br>Git & GitHub<br>Adobe Suite (Photoshop, After Effects)<br>Figma / UI Design<br>
 
-I'm a passionate **3D Artist** and **Developer**, blending art and technology to create immersive experiences. Always full of energy 💥, curious, and experimenting with new tools and techniques.
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/(https://discord.com/users/ornage_juicy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Loris Widmer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KandiRaverJuicy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/loris-a-widmer-719284323/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@KandiRaverJuicy) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Orange_juicy69) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Orange_juicy69) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@KandiRaverJuicy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loli.widmer@gmail.com) 
 
-## 🎨 About Me
-Hi! I'm someone who loves turning ideas into visual and interactive creations. My work combines **3D art**, **web development**, and **creative coding**.  
-I thrive on experimenting with Blender, procedural modeling, and web-based visual experiences.  
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OrangeJuicy69&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=OrangeJuicy69&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeJuicy69&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔹 Blender & 3D Modeling  
-- 🔹 Web & Interactive Experiences  
-- 🔹 Python, JavaScript, HTML, CSS  
-- 🔹 Animation, VFX, Procedural Design  
-- ⚡ Always learning, always experimenting  
-
----
-
-## 💻 Skills
-
-### 3D & Design
-- Blender, ZBrush, Substance Painter  
-- Texturing, Sculpting, Animation  
-- Procedural modeling & VFX  
-
-### Programming
-- Python, JavaScript, Node.js  
-- HTML5, CSS3, Three.js  
-- Creative coding & WebGL  
-
-### Tools & Workflows
-- Git & GitHub  
-- Adobe Suite (Photoshop, After Effects)  
-- Figma / UI Design  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=OrangeJuicy69&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=OrangeJuicy69&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Projects & Portfolio
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Orangejuicy66) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/T6T81K8GO6) 
 
-I love building projects that mix **art and code**. Here are some highlights:
-
-### **Project One** – Interactive 3D Scene  
-![Project One](https://via.placeholder.com/400x200.png?text=Project+One)  
-- Created a fully interactive 3D scene in Blender & Three.js  
-- Features animations, lighting effects, and procedural textures  
-
-### **Project Two** – Web Visualizer  
-![Project Two](https://via.placeholder.com/400x200.png?text=Project+Two)  
-- Real-time audio visualizer using WebGL  
-- Responsive design for desktop and mobile  
-
-### **Project Three** – Portfolio Website  
-![Portfolio](https://via.placeholder.com/400x200.png?text=Portfolio)  
-- Built with React & modern web tools  
-- Showcases my 3D art, interactive projects, and animations  
-
-[Full Portfolio](https://yourwebsite.com)  
-
----
-
-## 📊 GitHub Stats
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OrangeJuicy69&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeJuicy69&layout=compact&theme=radical)
-
-
----
-
-## 🎮 Current Status
-Check my live Discord status via **Lanyard**:  
-![Discord Presence](https://lanyard.cnrad.dev/api/yourdiscordid)
-
----
-
-## 🔗 Connect with Me
-[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://orangejuicy69.github.io/w3School-clone/)  
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ornage_juicy)  
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LorisZ0)  
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yKandiRaverJuicy)  
-
----
-
-## 🌟 Fun Fact
-- I sleep a lot 😴 but when awake, I'm like ⚡ on creativity  
-- I love combining **3D art**, **code**, and **music vibes** for unique projects  
-
----
-
-> “Art is the perfect mix of imagination and code.”  
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

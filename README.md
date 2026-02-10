@@ -32,12 +32,6 @@ Hi there, I'm Juicy 👋<br>I'm a passionate 3D Artist and Developer, blending a
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OrangeJuicy69/OrangeJuicy69/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-</div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OrangeJuicy69&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OrangeJuicy69&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeJuicy69&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=OrangeJuicy69&limit=5&theme=dark&combine_all_yearly_contributions=true)

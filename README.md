@@ -32,7 +32,11 @@ Hi there, I'm Juicy 👋<br>I'm a passionate 3D Artist and Developer, blending a
 
 ###
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrangeJuicy69/OrangeJuicy69/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrangeJuicy69/OrangeJuicy69/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OrangeJuicy69/OrangeJuicy69/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 </div>

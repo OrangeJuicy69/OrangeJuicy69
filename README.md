@@ -15,7 +15,7 @@ Hi there, I'm Juicy 👋<br>I'm a passionate 3D Artist and Developer, blending a
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
+
 
 ###
 <div align="center">
@@ -24,7 +24,7 @@ Hi there, I'm Juicy 👋<br>I'm a passionate 3D Artist and Developer, blending a
   <img src="https://github-profile-trophy.vercel.app?username=OrangeJuicy69&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeJuicy69&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5srk9nepw66d986ejd33sbc2a&unique={true|1|on|yes})
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrangeJuicy69/OrangeJuicy69/output/pacman-contribution-graph-dark.svg">

@@ -83,16 +83,17 @@ orange_juicy@linux ~ %
 
 ## [ QUEST LOG ]
 
-| Project | Description |
+| Project | Description | public |
 | :--- | :--- |
 | [**VRC-NexusChat**](https://github.com/OrangeJuicy69/VRC-NexusChat) | Desktop companion app for VRChat. Sends chatbox messages and shows real-time info via OSC. Built with Electron, React and TypeScript. |
 | [**DarkPurpleNote**](https://github.com/OrangeJuicy69/DarkPurpleNote) | Simple local note app running on Node, built with Vite. |
+
 
 <br>
 
 ## [ CONTACT ]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Loris_A._Widmer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loris-a-widmer-719284323/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-OrangeJuicy69-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OrangeJuicy69)
 [![Email](https://img.shields.io/badge/Email-loli.widmer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loli.widmer@gmail.com)
 

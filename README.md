@@ -75,7 +75,7 @@ My daily terminal runs on Zsh with Oh My Zsh. I love Fastfetch for basic overvie
 orange_juicy@dev-juicy ~ % fastfetch
 
                     .%;888:8898898:               orange_juicy@dev-juicy                                                 
-                 x;XxXB%89b8:b8%b88:              --------------                                                     --------------
+                 x;XxXB%89b8:b8%b88:              --------------                                                     
               .8Xxd                8X:.           OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64                       
             .8Xx;                    8x:.         Host: Virtual Machine (Hyper-V UEFI Release v4.1)                  
           .tt8x          .d            x88;       Kernel: Linux 6.8.0-146-generic                                    

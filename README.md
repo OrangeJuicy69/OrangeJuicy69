@@ -1,52 +1,110 @@
- 💫 About Me:
-Hi there, I'm Juicy 👋<br>I'm a passionate 3D Artist and Developer, blending art and technology to create immersive experiences. Always full of energy 💥, curious, and experimenting with new tools and techniques.<br><br>🎨 About Me<br>Hi! I'm someone who loves turning ideas into visual and interactive creations. My work combines 3D art, web development, and creative coding.<br>I thrive on experimenting with Blender, procedural modeling, and web-based visual experiences.<br><br>🔹 Blender & 3D Modeling<br>🔹 Web & Interactive Experiences<br>🔹 Python, JavaScript, HTML, CSS<br>🔹 Animation, VFX, Procedural Design<br>⚡ Always learning, always experimenting<br>💻 Skills<br>3D & Design<br>Blender, ZBrush, Substance Painter<br>Texturing, Sculpting, Animation<br>Procedural modeling & VFX<br>Programming<br>Python, JavaScript, Node.js<br>HTML5, CSS3, Three.js<br>Creative coding & WebGL<br>Tools & Workflows<br>Git & GitHub<br>Adobe Suite (Photoshop, After Effects)<br>Figma / UI Design<br>
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)][![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Loris-Widmer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KandiRaverJuicy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/loris-a-widmer-719284323/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@KandiRaverJuicy) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Orange_juicy69) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Orange_juicy69) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@KandiRaverJuicy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loli.widmer@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-###
-<img align="right" height="150" src="https://www.google.com/imgres?q=furry%20gif&imgurl=https%3A%2F%2Fi.redd.it%2Fw7tofdc2foya1.gif&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Ffurry%2Fcomments%2F13c5m9z%2Ffirst_full_gif_i_made_in_a_few_years_sh_4rk%2F%3Ftl%3Dde&docid=e3o8hmNRORsctM&tbnid=OHMiVBFDPWA3BM&vet=12ahUKEwjvgJKX1s6SAxV8SfEDHemNLJcQnPAOegQIGxAB..i&w=1347&h=1035&hcb=2&ved=2ahUKEwjvgJKX1s6SAxV8SfEDHemNLJcQnPAOegQIGxAB"  />
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=190&section=header&text=ORANGE_JUICY&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=aka%20Juicy&descSize=20&descAlignY=62" alt="Orange_juicy aka Juicy" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=1200&color=FF8A00&center=true&vCenter=true&width=760&height=40&lines=PLAYER+1+READY;Web+apps+and+desktop+tools;Vite+%2F+React+%2F+TypeScript;Press+START+to+explore" alt="Typing animation" />
+
 </div>
 
+<br>
 
-###
+## [ PLAYER PROFILE ]
+
+Orange_juicy, aka Juicy.
+
+- **What I do:** Web apps and desktop tools with JavaScript, TypeScript, React, Vite and Node.js.
+- **3D and VR:** I build worlds for games like VRChat in Blender, I am learning to make VRChat avatars with Unity, and I know the basics of Udon.
+- **Platform:** Long-time Linux fan with hands-on experience in Ubuntu, Ubuntu Server, Linux Mint, Fedora and Arch.
+- **Philosophy:** I love open source software and prefer open tools wherever possible.
+
+<br>
+
+## [ SKILL TREE ]
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-FF8A00?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF8A00?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF8A00?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF8A00?style=for-the-badge&logo=typescript&logoColor=white)
+
+HTML and CSS are at a basic level, enough for simple static pages.
+
+**Frameworks and Runtime**
+
+![React](https://img.shields.io/badge/React-7B2CBF?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-7B2CBF?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7B2CBF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-7B2CBF?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Terminal and Tools**
+
+![Bash](https://img.shields.io/badge/Bash-FF4FA3?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-FF4FA3?style=for-the-badge&logo=powershell&logoColor=white)
+![Oh My Zsh](https://img.shields.io/badge/Oh_My_Zsh-FF4FA3?style=for-the-badge&logo=ohmyzsh&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF4FA3?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF4FA3?style=for-the-badge&logo=github&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-FF4FA3?style=for-the-badge)
+
+**Linux**
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+
+**3D and VR**
+
+![Blender](https://img.shields.io/badge/Blender-00B8D4?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-00B8D4?style=for-the-badge&logo=unity&logoColor=white)
+![VRChat Worlds](https://img.shields.io/badge/VRChat_Worlds-00B8D4?style=for-the-badge)
+![Udon](https://img.shields.io/badge/Udon_(basic)-00B8D4?style=for-the-badge)
+
+Currently learning: VRChat avatars with Unity.
+
+<br>
+
+## [ QUEST LOG ]
+
+| Project | Description |
+| :--- | :--- |
+| [**VRC-NexusChat**](https://github.com/OrangeJuicy69/VRC-NexusChat) | Desktop companion app for VRChat. Sends chatbox messages and shows real-time info via OSC. Built with Electron, React and TypeScript. |
+| [**DarkPurpleNote**](https://github.com/OrangeJuicy69/DarkPurpleNote) | Simple local note app running on Node, built with Vite. |
+
+<br>
+
+## [ CONTACT ]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Loris_A._Widmer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loris-a-widmer-719284323/)
+[![GitHub](https://img.shields.io/badge/GitHub-OrangeJuicy69-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OrangeJuicy69)
+[![Email](https://img.shields.io/badge/Email-loli.widmer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loli.widmer@gmail.com)
+
+Note: This email address will not stay active for much longer.
+
+<br>
+
+## [ SUPPORT ]
+
+If you like my work, you can support me here:
+
+[![Donate on Ko-fi](https://img.shields.io/badge/Donate_on_Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/T6T81K8GO6)
+
+<br>
+
+## [ STATS ]
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrangeJuicy69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=OrangeJuicy69&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=OrangeJuicy69&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeJuicy69&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=OrangeJuicy69&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=OrangeJuicy69&theme=synthwave&hide_border=true" height="165" alt="GitHub streak" />
+
 </div>
 
+<br>
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" alt="" />
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OrangeJuicy69&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=OrangeJuicy69&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Orangejuicy66) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/T6T81K8GO6) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>

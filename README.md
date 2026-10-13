@@ -77,11 +77,11 @@ hello from zsh
 orange_juicy@linux ~ %
 ```
 
-<!-- Optional: own terminal GIF
+
 <p align="center">
   <img src="https://github.com/ohmyzsh/ohmyzsh/wiki/External-plugins" width="480" alt="My terminal setup" />
 </p>
--->
+
 
 <br>
 <br>

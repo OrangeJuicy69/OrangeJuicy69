@@ -78,11 +78,6 @@ orange_juicy@linux ~ %
 ```
 
 
-<p align="center">
-  <img src="https://github.com/ohmyzsh/ohmyzsh/wiki/External-plugins" width="480" alt="My terminal setup" />
-</p>
-
-
 <br>
 <br>
 

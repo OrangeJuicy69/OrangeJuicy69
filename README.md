@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=190&section=header&text=ORANGE_JUICY&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=aka%20Juicy&descSize=20&descAlignY=62" alt="Orange_juicy aka Juicy" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=1200&color=FF8A00&center=true&vCenter=true&width=760&height=40&lines=PLAYER+1+READY;Web+apps+and+desktop+tools;Vite+%2F+React+%2F+TypeScript;Press+START+to+explore" alt="Typing animation" />
+<p align="center">
+  <code>Web apps // Frameworks // Desktop tools // VRChat worlds // Linux </code>
+</p>
 
 </div>
 
@@ -62,7 +64,26 @@ HTML and CSS are at a basic level, enough for simple static pages.
 ![Udon](https://img.shields.io/badge/Udon_(basic)-00B8D4?style=for-the-badge)
 
 Currently learning: VRChat avatars with Unity.
+## [ TERMINAL ]
 
+![Oh My Zsh](https://img.shields.io/badge/Oh_My_Zsh-FF4FA3?style=for-the-badge&logo=ohmyzsh&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-FF4FA3?style=for-the-badge&logo=zsh&logoColor=white)
+
+My daily terminal runs on Zsh with Oh My Zsh. Themes, plugins and aliases keep my workflow fast and tidy.
+
+```
+orange_juicy@linux ~ % echo "hello from zsh"
+hello from zsh
+orange_juicy@linux ~ %
+```
+
+<!-- Optional: own terminal GIF
+<p align="center">
+  <img src="https://github.com/ohmyzsh/ohmyzsh/wiki/External-plugins" width="480" alt="My terminal setup" />
+</p>
+-->
+
+<br>
 <br>
 
 ## [ QUEST LOG ]

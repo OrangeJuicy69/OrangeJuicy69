@@ -88,7 +88,7 @@ orange_juicy@dev-juicy ~ % fastfetch
 GBB.                                                                                                                 
  x%88        d888@8@X@X@X88X@@XX@@X@8@X.          CPU: Intel(R) Core(TM) Ultra 7 155H (11) @ 3.78 GHz                
    dxXd    dB8b8b8B8B08bB88b998888b88x.           GPU: Mesa llvmpipe (LLVM 20.1.2, 256 bits)                        
-    dxx8o                      .@@;.              Memory: 2.04 GiB / 9.07 GiB (28%)                                 )
+    dxx8o                      .@@;.              Memory: 2.04 GiB / 9.07 GiB (28%)                                 
       dx88                   .t@x.                                                                                   
         d:SS@8ba89aa67a853Sxxad.                                                                                                             
           .d988999889889899dd.                                                                                                               

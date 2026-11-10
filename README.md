@@ -19,6 +19,7 @@ Orange_juicy, aka Juicy.
 - **Platform:** Im a Long-time Linux fan with alot experience in like Ubuntu or just Headles like Ubuntu  server, Linux Mint (My Fav^^), Fedora (My Daily Driver) and Arch (My biggest enemy).
 - **Philosophy:** I love open source software and prefer open tools wherever possible for like hosting of cloud storage ( my beloved Qnap Nas <3 )
 
+
 <br>
 
 ## [ SKILL TREE ]
@@ -71,6 +72,7 @@ Currently learning: VRChat avatars with Unity.
 
 My daily terminal runs on Zsh with Oh My Zsh. I love Fastfetch for basic overview of my system.
 
+
 ```
 orange_juicy@dev-juicy ~ % fastfetch
 
@@ -106,6 +108,7 @@ orange_juicy@ldev-juicy ~ %
 | :--- | :--- |
 | [**VRC-NexusChat**](https://github.com/OrangeJuicy69/VRC-NexusChat) | Desktop companion app for VRChat. Sends chatbox messages and shows real-time info via OSC. Built with Electron, React and TypeScript. |
 | [**DarkPurpleNote**](https://github.com/OrangeJuicy69/DarkPurpleNote) | Simple local note app running on Node, built with Vite. |
+| [**Rpg-cli**](https://github.com/OrangeJuicy69/RPG-CLI) | My first attempt to making a terminal based rpg game with typescript |
 
 
 <br>
